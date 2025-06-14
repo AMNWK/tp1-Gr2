@@ -3,6 +3,11 @@
 
 
 //fonction addition par amina
+float addition(float x,float y){
+            float s=x+y;
+            return s;
+}
+
 
 
 //fonction soustraction par aida
@@ -20,6 +25,10 @@ float multiplication(float a, float b){
 
 
 //fonction division par amina
+float division(float x,float y){
+	float q=x/y;
+	return q;
+}
 
 
 //methode main par aida
