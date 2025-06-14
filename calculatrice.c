@@ -14,6 +14,9 @@ float soustraction(float a, float b) {
 
 
 //fonction mutiplication par ange
+float multiplication(float a, float b){
+    return a*b;
+}
 
 
 //fonction division par amina
