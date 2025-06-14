@@ -1,4 +1,8 @@
 //directive de compilation par ange
+#include<stdio.h>
+#include<string.h>
+
+
 
 
 
@@ -12,6 +16,9 @@ float addition(float a,float b){
 
 
 //fonction mutiplication par ange
+float multiplication(float a, float b){
+    return a*b;
+}
 
 
 //fonction division par amina
